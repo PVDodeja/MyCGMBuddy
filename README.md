@@ -18,6 +18,6 @@ We utilized a published dataset from JCHR- JAEB Center for Health Research: http
 We performed data preprocessing and cleaning using RStudio with tidyverse packages-stringr. Time-series plots of the glucose-monitoring data were made using matplotlib in Python. A basic interactive GUI tool was developed using the ipy widget package, where we linked the patient database- their medications, and comedications and CGM reading to the dashboard along with multiple user-input options. A dose change is recommended which the patient can execute by themselves. 
 
 
-What’s next for MyCGMBuddy?
+**What’s next for MyCGMBuddy?**
 
-*We would love to scale this up further and incorporate more drug interactions into the database to make the tool accessible to all patients with Type 1 Diabetes*
+We would love to scale this up further and incorporate more drug interactions into the database to make the tool accessible to all patients with Type 1 Diabetes
